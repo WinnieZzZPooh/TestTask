@@ -12,8 +12,8 @@
    */
   import styled from 'vue-styled-components'
 
-  const OverlayContainer = styled.label.attrs(() => ({
-    class: 'pure-checkbox__label',
+  const OverlayContainer = styled.div.attrs(() => ({
+    class: 'overlay',
   }))`
     height: 100%;
     width: 100%;

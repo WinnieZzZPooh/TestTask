@@ -57,9 +57,11 @@
     bottom: 0;
     left: 0;
   }
+
   .full-height {
     height: 100%
   }
+
   .welcome-enter-active,
   .welcome-leave-active {
     transition: all .5s;
