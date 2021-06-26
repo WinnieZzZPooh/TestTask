@@ -50,7 +50,7 @@
     background: #fafbfd;
     color: #5863a2;
     overflow-x: hidden;
-    overflow-y: scroll;
+    overflow-y: auto;
     position: fixed;
     top: 0;
     right: 0;
