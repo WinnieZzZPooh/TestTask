@@ -42,7 +42,6 @@
   export const Counter = styled.div`
     padding: 0px 15px;
     font-weight: 600;
-    color: #555fa1;
     font-size: 18px;
     @media screen and (max-width: 620px) {
        display: none

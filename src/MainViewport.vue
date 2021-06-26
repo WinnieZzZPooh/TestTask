@@ -1,5 +1,5 @@
 <template>
-  <div :class="b()">
+  <div :class="b(null, 'full-height')">
     <app-header />
     <app-content />
   </div>

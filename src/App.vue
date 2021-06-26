@@ -48,8 +48,17 @@
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     background: #fafbfd;
-    height: 100vh;
+    color: #5863a2;
     overflow-x: hidden;
+    overflow-y: scroll;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .full-height {
+    height: 100%
   }
   .welcome-enter-active,
   .welcome-leave-active {
