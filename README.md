@@ -1,5 +1,6 @@
 # Тестовое задание
 
+**Demo**: https://winniezzzpooh.github.io/TestTask/
 ## Project setup
 ```
 npm install
